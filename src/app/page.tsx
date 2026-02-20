@@ -106,7 +106,7 @@ export default function LandingPage() {
 
       <div id="process" data-section="process">
         <FeatureProcessSteps
-          title="Our Creative Process"
+          title="Our Creative"
           description="From selection to delivery, we ensure every arrangement meets our exacting standards of beauty and freshness."
           tag="How We Work"
           tagIcon={Sparkles}
