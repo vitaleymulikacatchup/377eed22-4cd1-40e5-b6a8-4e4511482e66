@@ -150,7 +150,7 @@ export default function LandingPage() {
             },
             {
               id: "2",              name: "Michael Chen",              handle: "@mchen_designs",              testimonial: "The quality of flowers and craftsmanship is unmatched. I've ordered multiple times and never been disappointed.",              rating: 5,
-              imageSrc: "https://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg?_wi=1",              imageAlt: "Michael Chen"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35vmIsFKiMtTSUSBP7nWGRgR0We/uploaded-1765902658677-lb960jzl.jpg",              imageAlt: "Michael Chen"
             },
             {
               id: "3",              name: "Emma Rodriguez",              handle: "@emmar_boutique",              testimonial: "Amazing service and beautiful arrangements. They made my corporate event memorable with their floral designs.",              rating: 5,
