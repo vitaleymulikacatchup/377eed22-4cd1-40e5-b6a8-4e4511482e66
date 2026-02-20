@@ -17,7 +17,7 @@ export default function BlogPage() {
             borderRadius="pill"
             contentWidth="medium"
             sizing="mediumLargeSizeLargeTitles"
-            background="fluid"
+            background="circleGradient"
             cardStyle="glass-elevated"
             primaryButtonStyle="diagonal-gradient"
             secondaryButtonStyle="radial-glow"
