@@ -27,7 +27,7 @@ export default function BlogPage() {
                 <div id="nav" data-section="nav">
                     <NavbarStyleFullscreen
                         navItems={[
-                            { name: "Home", id: "/" },
+                            { name: "Home", id: "hero" },
                             { name: "Products", id: "products" },
                             { name: "About", id: "about" },
                             { name: "Contact", id: "contact" },
