@@ -48,7 +48,7 @@ export default function LandingPage() {
           tagIcon={Sparkles}
           tagAnimation="slide-up"
           background={{ variant: "plain" }}
-          imageSrc="https://img.b2bpic.net/free-photo/beautiful-bouquet-lilacs-roses-standing-rustic-hence-vase_114579-1849.jpg"
+          imageSrc="https://img.b2bpic.net/free-photo/beautiful-bouquet-lilacs-roses-standing-rustic-hence-vase_114579-1849.jpg?_wi=1"
           imageAlt="Premium floral arrangement showcasing Pandas Studio artistry"
           buttons={[
             { text: "Explore Collections", href: "products" },
@@ -175,7 +175,7 @@ export default function LandingPage() {
           title="Get In Touch"
           description="Ready to order? Have questions about our arrangements? We'd love to hear from you. Contact us today to start creating your perfect floral moment."
           useInvertedBackground={false}
-          imageSrc="https://img.b2bpic.net/free-photo/beautiful-bouquet-lilacs-roses-standing-rustic-hence-vase_114579-1849.jpg"
+          imageSrc="https://img.b2bpic.net/free-photo/beautiful-bouquet-lilacs-roses-standing-rustic-hence-vase_114579-1849.jpg?_wi=2"
           videoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35vmIsFKiMtTSUSBP7nWGRgR0We/uploaded-1771579037483-z9kji4b2.mp4"
           imageAlt="Beautiful flowers arranged on studio workspace"
           mediaAnimation="slide-up"
