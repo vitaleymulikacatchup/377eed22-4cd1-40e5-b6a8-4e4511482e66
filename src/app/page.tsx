@@ -94,7 +94,7 @@ export default function LandingPage() {
           tag="About Pandas"
           tagIcon={Leaf}
           tagAnimation="slide-up"
-          imageSrc="https://img.b2bpic.net/free-photo/medium-shot-smiley-woman-with-flowers_23-2149247537.jpg"
+          videoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35vmIsFKiMtTSUSBP7nWGRgR0We/uploaded-1771578629160-cn9h0zvr.mp4"
           imageAlt="Pandas Flowers Studio workspace with artisan florist at work"
           useInvertedBackground={true}
           buttons={[
