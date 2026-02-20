@@ -37,12 +37,11 @@ export default function ShopPage() {
                     <div id="navbar" data-section="navbar">
                         <NavbarStyleFullscreen
                             navItems={[
-                                { name: "Home", id: "/" },
+                                { name: "Home", id: "hero" },
                                 { name: "Products", id: "products" },
                                 { name: "About", id: "about" },
                                 { name: "Contact", id: "contact" },
-                                { name: "Gallery", id: "testimonials" },
-                                { name: "Shop", id: "/shop" }
+                                { name: "Gallery", id: "testimonials" }
                             ]}
                             brandName="Pandas"
                             bottomLeftText="Artisan Floral Design"
@@ -82,12 +81,11 @@ export default function ShopPage() {
                 <div id="navbar" data-section="navbar">
                     <NavbarStyleFullscreen
                         navItems={[
-                            { name: "Home", id: "/" },
+                            { name: "Home", id: "hero" },
                             { name: "Products", id: "products" },
                             { name: "About", id: "about" },
                             { name: "Contact", id: "contact" },
-                            { name: "Gallery", id: "testimonials" },
-                            { name: "Shop", id: "/shop" }
+                            { name: "Gallery", id: "testimonials" }
                         ]}
                         brandName="Pandas"
                         bottomLeftText="Artisan Floral Design"
