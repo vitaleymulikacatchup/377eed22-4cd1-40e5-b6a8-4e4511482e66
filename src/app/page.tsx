@@ -175,7 +175,7 @@ export default function LandingPage() {
           title="Get In Touch"
           description="Ready to order? Have questions about our arrangements? We'd love to hear from you. Contact us today to start creating your perfect floral moment."
           useInvertedBackground={false}
-          imageSrc="https://img.b2bpic.net/free-photo/beautiful-fresh-flowers-flora-shop-work-space-business_53876-23097.jpg"
+          videoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35vmIsFKiMtTSUSBP7nWGRgR0We/uploaded-1771579037483-z9kji4b2.mp4"
           imageAlt="Beautiful flowers arranged on studio workspace"
           mediaAnimation="slide-up"
           mediaPosition="right"
