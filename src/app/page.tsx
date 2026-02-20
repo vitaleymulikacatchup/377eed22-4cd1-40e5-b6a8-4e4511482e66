@@ -158,7 +158,7 @@ export default function LandingPage() {
             },
             {
               id: "4",              name: "David Park",              handle: "@davidpark_photo",              testimonial: "Fast delivery, fresh flowers, and exceptional creativity. Pandas is my go-to for all my floral needs.",              rating: 5,
-              imageSrc: "https://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg?_wi=2",              imageAlt: "David Park"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35vmIsFKiMtTSUSBP7nWGRgR0We/uploaded-1765899259537-vih8n7et.jpg",              imageAlt: "David Park"
             }
           ]}
           useInvertedBackground={false}
