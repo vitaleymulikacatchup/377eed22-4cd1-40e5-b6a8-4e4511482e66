@@ -19,7 +19,7 @@ export default function LandingPage() {
       borderRadius="pill"
       contentWidth="medium"
       sizing="mediumLargeSizeLargeTitles"
-      background="fluid"
+      background="circleGradient"
       cardStyle="glass-elevated"
       primaryButtonStyle="diagonal-gradient"
       secondaryButtonStyle="radial-glow"
@@ -47,7 +47,7 @@ export default function LandingPage() {
           tag="Welcome to Pandas Studio"
           tagIcon={Sparkles}
           tagAnimation="slide-up"
-          background={{ variant: "fluid" }}
+          background={{ variant: "plain" }}
           imageSrc="https://img.b2bpic.net/free-photo/beautiful-bouquet-lilacs-roses-standing-rustic-hence-vase_114579-1849.jpg"
           imageAlt="Premium floral arrangement showcasing Pandas Studio artistry"
           buttons={[
@@ -150,7 +150,7 @@ export default function LandingPage() {
             },
             {
               id: "2",              name: "Michael Chen",              handle: "@mchen_designs",              testimonial: "The quality of flowers and craftsmanship is unmatched. I've ordered multiple times and never been disappointed.",              rating: 5,
-              imageSrc: "https://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg?_wi=1",              imageAlt: "Michael Chen"
+              imageSrc: "https://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg",              imageAlt: "Michael Chen"
             },
             {
               id: "3",              name: "Emma Rodriguez",              handle: "@emmar_boutique",              testimonial: "Amazing service and beautiful arrangements. They made my corporate event memorable with their floral designs.",              rating: 5,
@@ -158,7 +158,7 @@ export default function LandingPage() {
             },
             {
               id: "4",              name: "David Park",              handle: "@davidpark_photo",              testimonial: "Fast delivery, fresh flowers, and exceptional creativity. Pandas is my go-to for all my floral needs.",              rating: 5,
-              imageSrc: "https://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg?_wi=2",              imageAlt: "David Park"
+              imageSrc: "https://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg",              imageAlt: "David Park"
             }
           ]}
           useInvertedBackground={false}
