@@ -154,7 +154,7 @@ export default function LandingPage() {
             },
             {
               id: "3",              name: "Emma Rodriguez",              handle: "@emmar_boutique",              testimonial: "Amazing service and beautiful arrangements. They made my corporate event memorable with their floral designs.",              rating: 5,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35vmIsFKiMtTSUSBP7nWGRgR0We/uploaded-1765899257867-nl43gpjj.jpg",              imageAlt: "Emma Rodriguez"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35vmIsFKiMtTSUSBP7nWGRgR0We/uploaded-1765902655541-ztvqsz78.jpg",              imageAlt: "Emma Rodriguez"
             },
             {
               id: "4",              name: "David Park",              handle: "@davidpark_photo",              testimonial: "Fast delivery, fresh flowers, and exceptional creativity. Pandas is my go-to for all my floral needs.",              rating: 5,
